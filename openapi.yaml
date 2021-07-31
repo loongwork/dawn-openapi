@@ -4,7 +4,6 @@ info:
   title: LoongWork
 servers:
   - url: 'https://api.loongwork.net'
-  - url: 'http://localhost:8989'
 paths:
   /user:
     get:
