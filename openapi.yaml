@@ -3,7 +3,8 @@ info:
   version: Dawn
   title: LoongWork
 servers:
-  - url: 'https://petstore.swagger.io/v1'
+  - url: 'https://api.loongwork.net'
+  - url: 'http://localhost:8989'
 paths:
   /user:
     get:
